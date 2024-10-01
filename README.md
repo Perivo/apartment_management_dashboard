@@ -46,4 +46,4 @@ This is a simple web-based **Apartment Management System** built using PHP, MySQ
 - Bootstrap
 
 ## Author
-- Your Name
+- Ivo Pereira
